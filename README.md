@@ -1,17 +1,19 @@
 DATA PREPARATION ON MAMMOGRAPHIC MASSES
 
-Data Acquired From University of California, Irvine Machine Learning Repository
-Additonal Data Information in the Link Below:
-http://archive.ics.uci.edu/ml/machine-learning-databases/mammographic-masses/mammographic_masses.names
 
-The Data was used to determine the effectiveness of radiological evaluations of breast cancer diagnoses in women who have breast tumors.
+<br>Data Acquired From University of California, Irvine Machine Learning Repository
+<br>Additonal Data Information in the Link Below:
+<br>
+[https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset](https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset)
+
+The Data was used to determine if blood test data could be sufficient to identify liver disease in rural areas with few physicians.
 
 PACKAGES:
-numpy
-pandas
+<br>numpy
+<br>pandas
 
 IMPORT PACKAGES:
-from pandas.plotting import scatter_matrix
-from sklearn.preprocessing import OneHotEncoder
+<br>from pandas.plotting import scatter_matrix
+<br>from sklearn.preprocessing import OneHotEncoder
 
 %matplotlib inline
