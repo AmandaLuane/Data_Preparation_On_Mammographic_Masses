@@ -4,9 +4,9 @@ DATA PREPARATION ON MAMMOGRAPHIC MASSES
 <br>Data Acquired From University of California, Irvine Machine Learning Repository
 <br>Additonal Data Information in the Link Below:
 <br>
-[https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset](https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset)
+[http://archive.ics.uci.edu/ml/machine-learning-databases/mammographic-masses/mammographic_masses.names](http://archive.ics.uci.edu/ml/machine-learning-databases/mammographic-masses/mammographic_masses.names)
 
-The Data was used to determine if blood test data could be sufficient to identify liver disease in rural areas with few physicians.
+The Data was used to determine the effectiveness of radiological evaluations of breast cancer diagnoses in women who have breast tumors.
 
 PACKAGES:
 <br>numpy
